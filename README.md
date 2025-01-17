@@ -1,4 +1,4 @@
-# Final Project
+# Snake Tournament Manager
 
 ## Description
 The goal of this project is to develop an application that manages a Snake tournament. The application provides login functionality for both players and administrators. Players can register, log in, and play the Snake game to compete for high scores. Administrators can manage player accounts, view rankings, and oversee the tournament.
